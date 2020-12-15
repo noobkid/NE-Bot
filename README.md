@@ -3,6 +3,7 @@ a bot that scans newegg for specific products availability
 
 this bot is supposed to checkout only newegg product pages and is written in python.
 in order to run it you need to install python interperter. if you are on windows 10 then it is suggested to install it from the microsoft store:
+
 1)open the store
 2)search "python"
 3)install any version (i used version 3.8)
