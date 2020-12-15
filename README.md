@@ -11,6 +11,7 @@ once installed all you need is to open the CMD and write:
 python "PATH" (ex. python "C:\New Folder\bot - edit.py")
 
 python is an inline interpreter coding language so the code executed can be viewed and edited with a simple text viewer like the windows' notepad on the fly.
+and so you can view it and see that there is no malicious code.
 
 there are 2 files:
 bot D version: all info is collected via prompts and that info is lost once the program is terminated.
