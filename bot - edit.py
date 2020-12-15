@@ -6,9 +6,9 @@ import smtplib
 
 
 #do you want the prompt to beep? (y/n)
-allowSound = y
+allowSound = "y"
 #do you want to be sent an email? (y/n)")
-allowEmail = y
+allowEmail = "y"
 # if so then enther the following 
 # enter email:
 user = "'"
